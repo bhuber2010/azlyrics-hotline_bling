@@ -1,7 +1,7 @@
 .footer-nav {
   box-sizing: border-box;
   width: 100%;
-  padding: 10px auto;
+  /*padding: 10px auto none auto;*/
   background-color: rgb(135, 131, 195);
 }
 
@@ -13,14 +13,21 @@ ul {
   display: flex;
   flex-flow: row;
   flex-wrap: wrap;
+  align-content: center;
   justify-content: space-between;
   list-style-type: none;
 }
 
-il {
-
+a {
+  font-family: Verdana, Arial;
+  font-size: 15px;
+  padding: 10px 4px;
+  text-decoration: none;
+  color: #fff;
 }
 
-a {
-    text-decoration: none;
+hr {
+  height: 30px;
+  margin: none;
+  background-color: rgb(83,79,137)
 }
