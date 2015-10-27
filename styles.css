@@ -38,3 +38,30 @@ hr {
 	margin: 0 auto;
 	text-align: center;
 }
+
+.middle {
+  background-color: #CCCCDD;
+  margin: none;
+  box-sizing: border-box;
+}
+
+section {
+  text-align: center;
+}
+
+.lyrics {
+  text-align: center;
+}
+
+.play-music {
+  text-align: center;
+}
+
+.search-box {
+  text-align: left;
+  width: 100%;
+}
+
+.facebook {
+  text-align: left;
+}
