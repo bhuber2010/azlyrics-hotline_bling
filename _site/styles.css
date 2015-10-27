@@ -1,0 +1,51 @@
+input {
+
+	float: right;
+	height: 29px;
+	width: 150px;
+	margin-top: 3px;
+}
+button {
+
+	float: right;
+	height: 35px;
+	width: 80px;
+	margin-right: 30px;
+	margin-top: 3px;
+	background-color: rgb(81,85,133);
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.box1 {
+
+	display: block;
+	height: 45px;
+	width: 100%;
+	background-color: rgb(133,137,191);
+}
+
+p {
+
+	font-weight: bold;
+	float: left;
+	font: 16px;
+	color: white;
+}
+
+.letter {
+	margin-left: 12px;
+}
+
+img {
+
+	float: left;
+}
+
+#box2{
+
+	height: 120px;
+	width: 100%;
+	background-color: rgb(81,85,133);
+}
