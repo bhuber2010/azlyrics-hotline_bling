@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .footer-nav {
   box-sizing: border-box;
   width: 100%;
@@ -31,3 +32,13 @@ hr {
   margin: none;
   background-color: rgb(83,79,137)
 }
+=======
+
+
+.text {
+	height: 100%;
+	width:	50%;
+	margin: 0 auto;
+	text-align: center;
+}
+>>>>>>> lyrics
